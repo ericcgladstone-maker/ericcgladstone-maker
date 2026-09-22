@@ -38,4 +38,4 @@ Browser-native recommendation tools, each a two-stage reasoning pipeline over li
 
 ## Other
 
-[daily-digest-script](https://github.com/ericcgladstone-maker/daily-digest-script) assembles a daily email and Slack digest. [olivia-game-8bit](https://github.com/ericcgladstone-maker/olivia-game-8bit) is a browser game.
+[daily-digest-script](https://github.com/ericcgladstone-maker/daily-digest-script) assembles a daily email and Slack digest.
